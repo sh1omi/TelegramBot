@@ -1,0 +1,20 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Simple telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sh1omi",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "bot",
+    "sh1omi"
+  ],
+  "dependencies": {
+    "node-telegram-bot-api":"*",
+    "omdb":"*"
+  }
+}
